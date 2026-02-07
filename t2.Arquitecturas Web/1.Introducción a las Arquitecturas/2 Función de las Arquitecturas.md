@@ -1,0 +1,3 @@
+- Detección y corrección temprana de errores e inconsistencias
+- Análisis de la idoneidad y completitud
+- Reutilización de componentes

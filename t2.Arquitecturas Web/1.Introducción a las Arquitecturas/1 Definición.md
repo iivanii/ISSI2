@@ -1,0 +1,1 @@
+La Arquitectura del Software hace referencia a la estructura fundamental de un sistema software y a la creación de tales estructuras y sistemas. Cada estructura se compone de elementos de software, de las relaciones entre ellos y de las propiedades entre ambos.

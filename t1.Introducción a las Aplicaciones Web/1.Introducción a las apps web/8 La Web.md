@@ -1,0 +1,9 @@
+- Inventada por **Sir Tim Berners-Lee** en Suiza sobre 1989
+- Colección de documentos en **HTML**  transferidos por **HTTP**
+- Se accede usando un **navegador**
+- Cada se recurso se referencia mediante una **URL**
+- Lenguajes de marcado
+	- SGML
+	- HTML
+	- XML
+	- XHTML

@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "89809bb5938251c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6841e9bd8d23e231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61140b8eefa50aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t5-Introducción a HTML5/2 Documentos HTML5/VIII Enlaces entre documentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIII Enlaces entre documentos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5d9fcc1c002231c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b8ffef6b8b65a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da650841402c9317",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d5398b6a7b4fbdaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eac7cb9bc621eae3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "161c1c8cc412e017",
+    "type": "split",
+    "children": [
+      {
+        "id": "902a71be08b63b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ae9957ddff0924",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "c28c751897949f4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d4f45e5802d31dd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b2d75aa048a6aec0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b6ae3b6f92825c75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "61140b8eefa50aaa",
+  "lastOpenFiles": [
+    "t5-Introducción a HTML5/2 Documentos HTML5/VII Elementos de Formateo Físico.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/VI Elementos de Formateo Lógico.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/V Elementos Semánticos Estructurales.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/III Documento HTML5 recomendable V1.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/II Reglas de marcado o etiquetado en HTML.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/I Documento Mínimo ejecutable.md",
+    "t5-Introducción a HTML5/1 Introducción/II Principios Fundamentales.md",
+    "t5-Introducción a HTML5/1 Introducción/I Lenguaje de Marcado o Etiquetas.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/II Inserción de Imágenes.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/I Imágenes.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/IV Elemento de audio.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/4 Multimedia.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/III Listas.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/X Caracteres especiales.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5",
+    "t5-Introducción a HTML5/3 Elementos HTML5.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/VIII Enlaces entre documentos.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/VIIII Hiperenlaces.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/IV Documento HTML5 recomendable V2.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5",
+    "t4.Interfaces de Usuario/4 Dark Patterns/IV Misdirection.md",
+    "t5-Introducción a HTML5/1 Introducción",
+    "t5-Introducción a HTML5",
+    "t4.Interfaces de Usuario/4 Dark Patterns/I Dark Patterns.md",
+    "t4.Interfaces de Usuario/4 Dark Patterns/II Preguntas Trampa.md",
+    "t4.Interfaces de Usuario/4 Dark Patterns/III Anuncios Disfrazados.md",
+    "t4.Interfaces de Usuario/3 Accesibilidad/II Contrast Ratio.md",
+    "t4.Interfaces de Usuario/4 Dark Patterns",
+    "t4.Interfaces de Usuario/3 Accesibilidad/III.md",
+    "t4.Interfaces de Usuario/3 Accesibilidad/I Accesibilidad.md",
+    "t4.Interfaces de Usuario/2 Buenas Prácticas/VIIII Efecto Von Restorff.md",
+    "t4.Interfaces de Usuario/3 Accesibilidad",
+    "t4.Interfaces de Usuario/2 Buenas Prácticas",
+    "t4.Interfaces de Usuario/1 UI-UX",
+    "t4.Interfaces de Usuario",
+    "t3.Servicios RESTful/3.Diseño de API's REST/imgs",
+    "t3.Servicios RESTful/3.Diseño de API's REST/imgs/Pasted image 20260202145923.png",
+    "t3.Servicios RESTful/3.Diseño de API's REST/imgs/Pasted image 20260202145858.png",
+    "t3.Servicios RESTful/2.Protocolo HTTP/imgs/Pasted image 20260202125153.png",
+    "t1.Introducción a las Aplicaciones Web/3.Servicios Web/imgs/Pasted image 20260129134856.png",
+    "t3.Servicios RESTful/1.Introducción/imgs/Pasted image 20260202123300.png",
+    "t3.Servicios RESTful/1.Introducción/imgs/Pasted image 20260202122850.png",
+    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120503.png",
+    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120413.png",
+    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120227.png",
+    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120052.png"
+  ]
+}
