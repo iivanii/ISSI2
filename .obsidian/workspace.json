@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t5-Introducción a HTML5/2 Documentos HTML5/VIII Enlaces entre documentos.md",
+                "file": "t5-Introducción a HTML5/3 Elementos HTML5/VI Tablas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIII Enlaces entre documentos"
+              "title": "VI Tablas"
             }
           }
         ]
@@ -180,8 +180,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "61140b8eefa50aaa",
+  "active": "da650841402c9317",
   "lastOpenFiles": [
+    "t5-Introducción a HTML5/3 Elementos HTML5/Tablas (IV) - Sobre.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/VI Tablas.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/V Elemento de Video.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/VIII Tablas (III) - Rowspan y cospan.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/VII Tablas (II) - Rowspan y colspan.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207213106.png",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207212920.png",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs",
+    "t5-Introducción a HTML5/3 Elementos HTML5/src",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207212737.png",
+    "t5-Introducción a HTML5/3 Elementos HTML5/IV Elemento de audio.md",
+    "t5-Introducción a HTML5/2 Documentos HTML5/VIII Enlaces entre documentos.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/VII Elementos de Formateo Físico.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/VI Elementos de Formateo Lógico.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/V Elementos Semánticos Estructurales.md",
@@ -192,13 +204,11 @@
     "t5-Introducción a HTML5/1 Introducción/I Lenguaje de Marcado o Etiquetas.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/II Inserción de Imágenes.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/I Imágenes.md",
-    "t5-Introducción a HTML5/3 Elementos HTML5/IV Elemento de audio.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/4 Multimedia.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/III Listas.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/X Caracteres especiales.md",
     "t5-Introducción a HTML5/3 Elementos HTML5",
     "t5-Introducción a HTML5/3 Elementos HTML5.md",
-    "t5-Introducción a HTML5/2 Documentos HTML5/VIII Enlaces entre documentos.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/VIIII Hiperenlaces.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/IV Documento HTML5 recomendable V2.md",
     "t5-Introducción a HTML5/2 Documentos HTML5",
@@ -207,26 +217,16 @@
     "t5-Introducción a HTML5",
     "t4.Interfaces de Usuario/4 Dark Patterns/I Dark Patterns.md",
     "t4.Interfaces de Usuario/4 Dark Patterns/II Preguntas Trampa.md",
-    "t4.Interfaces de Usuario/4 Dark Patterns/III Anuncios Disfrazados.md",
-    "t4.Interfaces de Usuario/3 Accesibilidad/II Contrast Ratio.md",
     "t4.Interfaces de Usuario/4 Dark Patterns",
-    "t4.Interfaces de Usuario/3 Accesibilidad/III.md",
-    "t4.Interfaces de Usuario/3 Accesibilidad/I Accesibilidad.md",
-    "t4.Interfaces de Usuario/2 Buenas Prácticas/VIIII Efecto Von Restorff.md",
     "t4.Interfaces de Usuario/3 Accesibilidad",
     "t4.Interfaces de Usuario/2 Buenas Prácticas",
     "t4.Interfaces de Usuario/1 UI-UX",
-    "t4.Interfaces de Usuario",
-    "t3.Servicios RESTful/3.Diseño de API's REST/imgs",
     "t3.Servicios RESTful/3.Diseño de API's REST/imgs/Pasted image 20260202145923.png",
     "t3.Servicios RESTful/3.Diseño de API's REST/imgs/Pasted image 20260202145858.png",
     "t3.Servicios RESTful/2.Protocolo HTTP/imgs/Pasted image 20260202125153.png",
     "t1.Introducción a las Aplicaciones Web/3.Servicios Web/imgs/Pasted image 20260129134856.png",
     "t3.Servicios RESTful/1.Introducción/imgs/Pasted image 20260202123300.png",
     "t3.Servicios RESTful/1.Introducción/imgs/Pasted image 20260202122850.png",
-    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120503.png",
-    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120413.png",
-    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120227.png",
-    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120052.png"
+    "t2.Arquitecturas Web/4.Framework Silence/imgs/Pasted image 20260202120503.png"
   ]
 }
