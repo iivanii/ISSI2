@@ -12,13 +12,14 @@
 - \<caption>: título de la tabla.
 
 
-![[Pasted image 20260207212737.png]]
+![Pasted image 20260207212737.png](Pasted%20image%2020260207212737.png)
+
 
 --------------------------------------------------------------------------
 
 # Rowspan y colspan
 
-![[Pasted image 20260207212920.png]]
+![Pasted image 20260207212920.png](Pasted%20image%2020260207212920.png)
 
 ```HTML
 <table border = "2">
@@ -44,7 +45,7 @@
 </table>
 ```
 
-![[Pasted image 20260207213106.png]]
+![Pasted image 20260207213106.png](Pasted%20image%2020260207213106.png)
 
 --------------------------------------------------------------------------
 
