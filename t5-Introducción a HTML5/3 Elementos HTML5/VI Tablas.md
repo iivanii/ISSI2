@@ -12,7 +12,7 @@
 - \<caption>: título de la tabla.
 
 
-![Pasted image 20260207212737.png](Pasted%20image%2020260207212737.png)
+![Pasted image 20260207212737.png](imgs/Pasted%20image%2020260207212737.png)
 
 
 --------------------------------------------------------------------------

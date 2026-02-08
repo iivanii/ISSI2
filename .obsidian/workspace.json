@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e33ee678e7395198",
+        "id": "babaf1a09ec9a063",
         "type": "tabs",
         "children": [
           {
-            "id": "8f724ac6a4153f47",
+            "id": "45b955e05b4f752c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,26 +180,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8f724ac6a4153f47",
+  "active": "45b955e05b4f752c",
   "lastOpenFiles": [
     "t5-Introducción a HTML5/3 Elementos HTML5/V Elemento de Video.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/VI Tablas.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207212737.png",
+    "t5-Introducción a HTML5/3 Elementos HTML5/I Imágenes.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/II Inserción de Imágenes.md",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207213106.png",
+    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207212920.png",
     "t5-Introducción a HTML5/3 Elementos HTML5/IV Elemento de audio.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/III Listas.md",
-    "t5-Introducción a HTML5/3 Elementos HTML5/II Inserción de Imágenes.md",
-    "t5-Introducción a HTML5/3 Elementos HTML5/I Imágenes.md",
-    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207212737.png",
-    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207212920.png",
     "t5-Introducción a HTML5/2 Documentos HTML5/VII Elementos de Formateo Físico.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/III Documento HTML5 recomendable V1.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/II Reglas de marcado o etiquetado en HTML.md",
     "t5-Introducción a HTML5/2 Documentos HTML5/I Documento Mínimo ejecutable.md",
     "t5-Introducción a HTML5/1 Introducción/II Principios Fundamentales.md",
     "t5-Introducción a HTML5/1 Introducción/I Lenguaje de Marcado o Etiquetas.md",
-    "t5-Introducción a HTML5/3 Elementos HTML5/VI Tablas.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/Tablas (IV) - Sobre.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/VIII Tablas (III) - Rowspan y cospan.md",
     "t5-Introducción a HTML5/3 Elementos HTML5/VII Tablas (II) - Rowspan y colspan.md",
-    "t5-Introducción a HTML5/3 Elementos HTML5/imgs/Pasted image 20260207213106.png",
     "t5-Introducción a HTML5/3 Elementos HTML5/imgs",
     "t5-Introducción a HTML5/3 Elementos HTML5/src",
     "t5-Introducción a HTML5/2 Documentos HTML5/VIII Enlaces entre documentos.md",
