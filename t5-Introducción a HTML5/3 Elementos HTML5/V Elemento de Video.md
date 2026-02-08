@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------
 
 #### \<video>
-Permite insertar contenido de video en un documento HTML. Tiene los mismos atributos que [[IV Elemento de audio|audio]] y:
+Permite insertar contenido de video en un documento HTML. Tiene los mismos atributos que [audio](IV%20Elemento%20de%20audio.md) y:
 
 - height: Altura a la que el video se renderizará
 - width: Anchura a la que el video se renderizará
